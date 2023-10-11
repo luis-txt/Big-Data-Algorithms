@@ -1,8 +1,8 @@
 import 'dart:collection';
 
 void main() {
-  print(misraGriesMajor([5,3,5,4,5,6,9,9,7]));
-  print(misraGries([5,3,5,4,5,6,9,9,7], 2));
+  print(misraGriesMajor([9,3,9,4,9,6,9,9,7]));
+  //print(misraGries([5,3,5,4,5,6,9,9,7], 2));
 }
 
 ///Implements the misra-gries algorithm for the majority-element.
